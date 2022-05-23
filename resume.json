@@ -2,7 +2,7 @@
   "resume": {
       "name": "Даниил",
       "age": "09.11.2000",
-      "city": "Питер"
+      "city": "Питер",
       "stack": ["HTML", "CSS", "JS", "React.js"],
       "experience": [
             {
