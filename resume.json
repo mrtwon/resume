@@ -4,7 +4,7 @@
       "age": "09.11.2000",
       "city": "Питер",
       "avatar": "https://i.ibb.co/hd7Hmc8/photo.jpg",
-      "stack": ["HTML", "CSS", "JS", "React.js"],
+      "stack": ["HTML", "CSS", "JS", "React.js", "MongoDB"],
       "experience": [
             {
               "project": "Framex",
