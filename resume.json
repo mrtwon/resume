@@ -3,5 +3,14 @@
       "name": "Даниил",
       "age": "09.11.2000",
       "city": "Питер"
+      "stack": ["HTML", "CSS", "JS", "React.js"],
+      "experience": [
+            {
+              "name": "Framex",
+              "description": "Онлайн кинотеатр с открытым исходным кодом"
+            }
+      ],
+      "telegram-contact": "mrtwon",
+      "e-mail-contact": "imdaniil@internet.ru"
   }
 }
