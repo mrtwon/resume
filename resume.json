@@ -6,8 +6,12 @@
       "stack": ["HTML", "CSS", "JS", "React.js"],
       "experience": [
             {
-              "name": "Framex",
-              "description": "Онлайн кинотеатр с открытым исходным кодом"
+              "project": "Framex",
+              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
+            },
+            {
+              "project": "Kostructor77",
+              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
             }
       ],
       "telegram-contact": "mrtwon",
