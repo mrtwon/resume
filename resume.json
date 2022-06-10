@@ -15,7 +15,21 @@
               "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
             }
       ],
-      "telegramContact": "mrtwon",
-      "emailContact": "imdaniil@internet.ru"
+      "contacts": [
+        {
+          "icon": "https://i.ibb.co/ZXXRhDR/email.png",
+          "color": "#3a6da1"
+          "address": "imdaniil@internet.ru",
+          "linkAddress": undefined,
+          
+        },
+        {
+          "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
+          "color": "#0086c8"
+          "address": "@mrtwon",
+          "linkAddress": "https://t.me/mrtwon",
+          
+        }
+       ]
   }
 }
