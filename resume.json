@@ -1,8 +1,40 @@
 {
-  "resume": {
+  "ru": {
       "name": "Даниил",
       "age": "973717200000",
       "city": "Питер",
+      "avatar": "https://i.ibb.co/hd7Hmc8/photo.jpg",
+      "stack": ["HTML", "CSS", "JS", "React.js", "MongoDB"],
+      "experience": [
+            {
+              "project": "Framex",
+              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
+            },
+            {
+              "project": "Kostructor77",
+              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
+            }
+      ],
+      "contacts": [
+        {
+          "icon": "https://i.ibb.co/ZXXRhDR/email.png",
+          "color": "#3a6da1"
+          "address": "imdaniil@internet.ru",
+          "linkAddress": undefined
+        },
+        {
+          "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
+          "color": "#0086c8"
+          "address": "@mrtwon",
+          "linkAddress": "https://t.me/mrtwon",
+          
+        }
+       ]
+  },
+  "en": {
+      "name": "Daniil",
+      "age": "973717200000",
+      "city": "St.Petersburg",
       "avatar": "https://i.ibb.co/hd7Hmc8/photo.jpg",
       "stack": ["HTML", "CSS", "JS", "React.js", "MongoDB"],
       "experience": [
