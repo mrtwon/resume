@@ -4,7 +4,7 @@
       "age": "973717200000",
       "city": "Питер",
       "avatar": "https://i.ibb.co/hd7Hmc8/photo.jpg",
-      "stack": ["HTML", "CSS", "JS", "React.js", "MongoDB"],
+      "stack": ["HTML", "CSS", "JS", "React"],
       "experience": [
             {
               "project": "Resume Site",
@@ -22,7 +22,7 @@
           "icon": "https://i.ibb.co/ZXXRhDR/email.png",
           "color": "#3a6da1",
           "address": "imdaniil@internet.ru",
-          "linkAddress": ""
+          "linkAddress": "mailto://imdaniil@internet.ru"
         },
         {
           "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
@@ -55,7 +55,7 @@
           "icon": "https://i.ibb.co/ZXXRhDR/email.png",
           "color": "#3a6da1",
           "address": "imdaniil@internet.ru",
-          "linkAddress": ""
+          "linkAddress": "mailto://imdaniil@internet.ru"
         },
         {
           "icon": "https://i.ibb.co/VQMzkqh/telegram.png",
