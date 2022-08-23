@@ -37,7 +37,7 @@
       "age": "973717200000",
       "city": "St.Petersburg",
       "avatar": "https://i.ibb.co/hd7Hmc8/photo.jpg",
-      "stack": ["HTML", "CSS", "JS", "React.js", "MongoDB"],
+      "stack": ["HTML", "CSS", "JS", "React"],
       "experience": [
             {
               "project": "Resume",
