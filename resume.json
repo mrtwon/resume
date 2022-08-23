@@ -8,7 +8,7 @@
       "experience": [
             {
               "project": "Resume Site",
-              "description": "Этот сайт-резюме написал я :)",
+              "description": "Этот сайт-резюме как часть моих пет-проектов, использовал стандартные иструменты - HTML, CSS, JS и github как хранилище данных резюме ",
               "link": "/"
             },
             {
@@ -41,7 +41,7 @@
       "experience": [
             {
               "project": "Resume",
-              "description": "This resume site was written by me :)",
+              "description": "This resume site as part of my pet projects used standard tools - HTML, CSS, JS and github as resume data repository",
               "link": "/"
             },
             {
