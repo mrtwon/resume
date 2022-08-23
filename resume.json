@@ -7,12 +7,14 @@
       "stack": ["HTML", "CSS", "JS", "React.js", "MongoDB"],
       "experience": [
             {
-              "project": "Framex",
-              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
+              "project": "Resume Site",
+              "description": "Этот сайт-резюме написал я :)",
+              "link": "/"
             },
             {
-              "project": "Kostructor77",
-              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
+              "project": "Creatives Site",
+              "description": "Сайт-визитка веб-студии, использовался HTML, CSS, JS и анимации при скролле. Был сверстан из бесплатного psd макета как пример работы.",
+              "link": "https://mrtwon.github.io/creatives/"
             }
       ],
       "contacts": [
@@ -38,12 +40,14 @@
       "stack": ["HTML", "CSS", "JS", "React.js", "MongoDB"],
       "experience": [
             {
-              "project": "Framex",
-              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
+              "project": "Resume",
+              "description": "This resume site was written by me :)",
+              "link": "/"
             },
             {
-              "project": "Kostructor77",
-              "description": "Онлайн кинотеатр с открытым исходным кодом. Онлайн кинотеатр с открытым исходным кодом"
+              "project": "Creatives Site",
+              "description": "Business card site of a web studio, used HTML, CSS, JS and animations when scrolling. Made from a free psd layout.",
+              "link": "https://mrtwon.github.io/creatives/"
             }
       ],
       "contacts": [
